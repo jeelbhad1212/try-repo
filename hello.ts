@@ -9,6 +9,7 @@ console.log(s1 + " jeel " + s2);
 
 /*function sub(x,y,d=10)
 {
+    
     return x+y;
 }
 console.log(sub(30,30));*/
